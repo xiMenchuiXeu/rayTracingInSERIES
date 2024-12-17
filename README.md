@@ -1,2 +1,2 @@
 # rayTracingInSERIES
-self practice for ray tracign
+self practice for ray tracing
