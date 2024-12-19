@@ -1,0 +1,417 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\visual_studio_Files\\Ray_tracing_series\\ray_tracing_in_one_weekend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B93963BB-2CAD-4B00-8164-C5E615B684E3}|ray_tracing_in_one_weekend.vcxproj|D:\\visual_studio_Files\\Ray_tracing_series\\ray_tracing_in_one_weekend\\camera.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B93963BB-2CAD-4B00-8164-C5E615B684E3}|ray_tracing_in_one_weekend.vcxproj|solutionrelative:camera.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B93963BB-2CAD-4B00-8164-C5E615B684E3}|ray_tracing_in_one_weekend.vcxproj|D:\\visual_studio_Files\\Ray_tracing_series\\ray_tracing_in_one_weekend\\color.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B93963BB-2CAD-4B00-8164-C5E615B684E3}|ray_tracing_in_one_weekend.vcxproj|solutionrelative:color.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B93963BB-2CAD-4B00-8164-C5E615B684E3}|ray_tracing_in_one_weekend.vcxproj|D:\\visual_studio_Files\\Ray_tracing_series\\ray_tracing_in_one_weekend\\interval.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B93963BB-2CAD-4B00-8164-C5E615B684E3}|ray_tracing_in_one_weekend.vcxproj|solutionrelative:interval.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B93963BB-2CAD-4B00-8164-C5E615B684E3}|ray_tracing_in_one_weekend.vcxproj|D:\\visual_studio_Files\\Ray_tracing_series\\ray_tracing_in_one_weekend\\camera.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B93963BB-2CAD-4B00-8164-C5E615B684E3}|ray_tracing_in_one_weekend.vcxproj|solutionrelative:camera.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B93963BB-2CAD-4B00-8164-C5E615B684E3}|ray_tracing_in_one_weekend.vcxproj|D:\\visual_studio_Files\\Ray_tracing_series\\ray_tracing_in_one_weekend\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B93963BB-2CAD-4B00-8164-C5E615B684E3}|ray_tracing_in_one_weekend.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B93963BB-2CAD-4B00-8164-C5E615B684E3}|ray_tracing_in_one_weekend.vcxproj|D:\\visual_studio_Files\\Ray_tracing_series\\ray_tracing_in_one_weekend\\constant_medium.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B93963BB-2CAD-4B00-8164-C5E615B684E3}|ray_tracing_in_one_weekend.vcxproj|solutionrelative:constant_medium.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B93963BB-2CAD-4B00-8164-C5E615B684E3}|ray_tracing_in_one_weekend.vcxproj|D:\\visual_studio_Files\\Ray_tracing_series\\ray_tracing_in_one_weekend\\texture.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B93963BB-2CAD-4B00-8164-C5E615B684E3}|ray_tracing_in_one_weekend.vcxproj|solutionrelative:texture.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B93963BB-2CAD-4B00-8164-C5E615B684E3}|ray_tracing_in_one_weekend.vcxproj|D:\\visual_studio_Files\\Ray_tracing_series\\ray_tracing_in_one_weekend\\rtweekend.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B93963BB-2CAD-4B00-8164-C5E615B684E3}|ray_tracing_in_one_weekend.vcxproj|solutionrelative:rtweekend.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B93963BB-2CAD-4B00-8164-C5E615B684E3}|ray_tracing_in_one_weekend.vcxproj|D:\\visual_studio_Files\\Ray_tracing_series\\ray_tracing_in_one_weekend\\material.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B93963BB-2CAD-4B00-8164-C5E615B684E3}|ray_tracing_in_one_weekend.vcxproj|solutionrelative:material.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B93963BB-2CAD-4B00-8164-C5E615B684E3}|ray_tracing_in_one_weekend.vcxproj|D:\\visual_studio_Files\\Ray_tracing_series\\ray_tracing_in_one_weekend\\color.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B93963BB-2CAD-4B00-8164-C5E615B684E3}|ray_tracing_in_one_weekend.vcxproj|solutionrelative:color.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B93963BB-2CAD-4B00-8164-C5E615B684E3}|ray_tracing_in_one_weekend.vcxproj|D:\\visual_studio_Files\\Ray_tracing_series\\ray_tracing_in_one_weekend\\stb_image.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B93963BB-2CAD-4B00-8164-C5E615B684E3}|ray_tracing_in_one_weekend.vcxproj|solutionrelative:stb_image.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B93963BB-2CAD-4B00-8164-C5E615B684E3}|ray_tracing_in_one_weekend.vcxproj|D:\\visual_studio_Files\\Ray_tracing_series\\ray_tracing_in_one_weekend\\stb_image.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B93963BB-2CAD-4B00-8164-C5E615B684E3}|ray_tracing_in_one_weekend.vcxproj|solutionrelative:stb_image.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B93963BB-2CAD-4B00-8164-C5E615B684E3}|ray_tracing_in_one_weekend.vcxproj|D:\\visual_studio_Files\\Ray_tracing_series\\ray_tracing_in_one_weekend\\sphere.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B93963BB-2CAD-4B00-8164-C5E615B684E3}|ray_tracing_in_one_weekend.vcxproj|solutionrelative:sphere.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B93963BB-2CAD-4B00-8164-C5E615B684E3}|ray_tracing_in_one_weekend.vcxproj|D:\\visual_studio_Files\\Ray_tracing_series\\ray_tracing_in_one_weekend\\pdf.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B93963BB-2CAD-4B00-8164-C5E615B684E3}|ray_tracing_in_one_weekend.vcxproj|solutionrelative:pdf.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B93963BB-2CAD-4B00-8164-C5E615B684E3}|ray_tracing_in_one_weekend.vcxproj|D:\\visual_studio_Files\\Ray_tracing_series\\ray_tracing_in_one_weekend\\hittable_list.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B93963BB-2CAD-4B00-8164-C5E615B684E3}|ray_tracing_in_one_weekend.vcxproj|solutionrelative:hittable_list.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B93963BB-2CAD-4B00-8164-C5E615B684E3}|ray_tracing_in_one_weekend.vcxproj|D:\\visual_studio_Files\\Ray_tracing_series\\ray_tracing_in_one_weekend\\hittable.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B93963BB-2CAD-4B00-8164-C5E615B684E3}|ray_tracing_in_one_weekend.vcxproj|solutionrelative:hittable.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B93963BB-2CAD-4B00-8164-C5E615B684E3}|ray_tracing_in_one_weekend.vcxproj|D:\\visual_studio_Files\\Ray_tracing_series\\ray_tracing_in_one_weekend\\ray.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B93963BB-2CAD-4B00-8164-C5E615B684E3}|ray_tracing_in_one_weekend.vcxproj|solutionrelative:ray.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B93963BB-2CAD-4B00-8164-C5E615B684E3}|ray_tracing_in_one_weekend.vcxproj|D:\\visual_studio_Files\\Ray_tracing_series\\ray_tracing_in_one_weekend\\quad.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B93963BB-2CAD-4B00-8164-C5E615B684E3}|ray_tracing_in_one_weekend.vcxproj|solutionrelative:quad.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B93963BB-2CAD-4B00-8164-C5E615B684E3}|ray_tracing_in_one_weekend.vcxproj|D:\\visual_studio_Files\\Ray_tracing_series\\ray_tracing_in_one_weekend\\onb.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B93963BB-2CAD-4B00-8164-C5E615B684E3}|ray_tracing_in_one_weekend.vcxproj|solutionrelative:onb.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B93963BB-2CAD-4B00-8164-C5E615B684E3}|ray_tracing_in_one_weekend.vcxproj|D:\\visual_studio_Files\\Ray_tracing_series\\ray_tracing_in_one_weekend\\bvh.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B93963BB-2CAD-4B00-8164-C5E615B684E3}|ray_tracing_in_one_weekend.vcxproj|solutionrelative:bvh.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B93963BB-2CAD-4B00-8164-C5E615B684E3}|ray_tracing_in_one_weekend.vcxproj|D:\\visual_studio_Files\\Ray_tracing_series\\ray_tracing_in_one_weekend\\vec3.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B93963BB-2CAD-4B00-8164-C5E615B684E3}|ray_tracing_in_one_weekend.vcxproj|solutionrelative:vec3.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B93963BB-2CAD-4B00-8164-C5E615B684E3}|ray_tracing_in_one_weekend.vcxproj|D:\\visual_studio_Files\\Ray_tracing_series\\ray_tracing_in_one_weekend\\interval.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B93963BB-2CAD-4B00-8164-C5E615B684E3}|ray_tracing_in_one_weekend.vcxproj|solutionrelative:interval.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B93963BB-2CAD-4B00-8164-C5E615B684E3}|ray_tracing_in_one_weekend.vcxproj|D:\\visual_studio_Files\\Ray_tracing_series\\ray_tracing_in_one_weekend\\perlin.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B93963BB-2CAD-4B00-8164-C5E615B684E3}|ray_tracing_in_one_weekend.vcxproj|solutionrelative:perlin.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "hittable_list.hpp",
+              "DocumentMoniker": "D:\\visual_studio_Files\\Ray_tracing_series\\ray_tracing_in_one_weekend\\hittable_list.hpp",
+              "RelativeDocumentMoniker": "hittable_list.hpp",
+              "ToolTip": "D:\\visual_studio_Files\\Ray_tracing_series\\ray_tracing_in_one_weekend\\hittable_list.hpp",
+              "RelativeToolTip": "hittable_list.hpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-14T12:43:28.862Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "camera.hpp",
+              "DocumentMoniker": "D:\\visual_studio_Files\\Ray_tracing_series\\ray_tracing_in_one_weekend\\camera.hpp",
+              "RelativeDocumentMoniker": "camera.hpp",
+              "ToolTip": "D:\\visual_studio_Files\\Ray_tracing_series\\ray_tracing_in_one_weekend\\camera.hpp",
+              "RelativeToolTip": "camera.hpp",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-15T11:14:31.725Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "material.hpp",
+              "DocumentMoniker": "D:\\visual_studio_Files\\Ray_tracing_series\\ray_tracing_in_one_weekend\\material.hpp",
+              "RelativeDocumentMoniker": "material.hpp",
+              "ToolTip": "D:\\visual_studio_Files\\Ray_tracing_series\\ray_tracing_in_one_weekend\\material.hpp",
+              "RelativeToolTip": "material.hpp",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAAAB4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-20T12:00:28.412Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "rtweekend.hpp",
+              "DocumentMoniker": "D:\\visual_studio_Files\\Ray_tracing_series\\ray_tracing_in_one_weekend\\rtweekend.hpp",
+              "RelativeDocumentMoniker": "rtweekend.hpp",
+              "ToolTip": "D:\\visual_studio_Files\\Ray_tracing_series\\ray_tracing_in_one_weekend\\rtweekend.hpp",
+              "RelativeToolTip": "rtweekend.hpp",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAA0AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-26T06:47:59.641Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "camera.cpp",
+              "DocumentMoniker": "D:\\visual_studio_Files\\Ray_tracing_series\\ray_tracing_in_one_weekend\\camera.cpp",
+              "RelativeDocumentMoniker": "camera.cpp",
+              "ToolTip": "D:\\visual_studio_Files\\Ray_tracing_series\\ray_tracing_in_one_weekend\\camera.cpp",
+              "RelativeToolTip": "camera.cpp",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAiwBYAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-20T09:12:40.826Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "pdf.hpp",
+              "DocumentMoniker": "D:\\visual_studio_Files\\Ray_tracing_series\\ray_tracing_in_one_weekend\\pdf.hpp",
+              "RelativeDocumentMoniker": "pdf.hpp",
+              "ToolTip": "D:\\visual_studio_Files\\Ray_tracing_series\\ray_tracing_in_one_weekend\\pdf.hpp",
+              "RelativeToolTip": "pdf.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-27T11:16:37.888Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "constant_medium.hpp",
+              "DocumentMoniker": "D:\\visual_studio_Files\\Ray_tracing_series\\ray_tracing_in_one_weekend\\constant_medium.hpp",
+              "RelativeDocumentMoniker": "constant_medium.hpp",
+              "ToolTip": "D:\\visual_studio_Files\\Ray_tracing_series\\ray_tracing_in_one_weekend\\constant_medium.hpp",
+              "RelativeToolTip": "constant_medium.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-25T09:08:02.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\visual_studio_Files\\Ray_tracing_series\\ray_tracing_in_one_weekend\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "D:\\visual_studio_Files\\Ray_tracing_series\\ray_tracing_in_one_weekend\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgBAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-13T09:11:42.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "texture.hpp",
+              "DocumentMoniker": "D:\\visual_studio_Files\\Ray_tracing_series\\ray_tracing_in_one_weekend\\texture.hpp",
+              "RelativeDocumentMoniker": "texture.hpp",
+              "ToolTip": "D:\\visual_studio_Files\\Ray_tracing_series\\ray_tracing_in_one_weekend\\texture.hpp",
+              "RelativeToolTip": "texture.hpp",
+              "ViewState": "AQIAABgAAAAAAAAAAAAiwEIAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-20T11:59:10.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "color.cpp",
+              "DocumentMoniker": "D:\\visual_studio_Files\\Ray_tracing_series\\ray_tracing_in_one_weekend\\color.cpp",
+              "RelativeDocumentMoniker": "color.cpp",
+              "ToolTip": "D:\\visual_studio_Files\\Ray_tracing_series\\ray_tracing_in_one_weekend\\color.cpp",
+              "RelativeToolTip": "color.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-29T02:40:01.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "interval.cpp",
+              "DocumentMoniker": "D:\\visual_studio_Files\\Ray_tracing_series\\ray_tracing_in_one_weekend\\interval.cpp",
+              "RelativeDocumentMoniker": "interval.cpp",
+              "ToolTip": "D:\\visual_studio_Files\\Ray_tracing_series\\ray_tracing_in_one_weekend\\interval.cpp",
+              "RelativeToolTip": "interval.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-25T12:19:14.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "stb_image.h",
+              "DocumentMoniker": "D:\\visual_studio_Files\\Ray_tracing_series\\ray_tracing_in_one_weekend\\stb_image.h",
+              "RelativeDocumentMoniker": "stb_image.h",
+              "ToolTip": "D:\\visual_studio_Files\\Ray_tracing_series\\ray_tracing_in_one_weekend\\stb_image.h",
+              "RelativeToolTip": "stb_image.h",
+              "ViewState": "AQIAANICAAAAAAAAAAASwN0CAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-21T06:57:45.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "color.hpp",
+              "DocumentMoniker": "D:\\visual_studio_Files\\Ray_tracing_series\\ray_tracing_in_one_weekend\\color.hpp",
+              "RelativeDocumentMoniker": "color.hpp",
+              "ToolTip": "D:\\visual_studio_Files\\Ray_tracing_series\\ray_tracing_in_one_weekend\\color.hpp",
+              "RelativeToolTip": "color.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-25T12:55:02.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "stb_image.cpp",
+              "DocumentMoniker": "D:\\visual_studio_Files\\Ray_tracing_series\\ray_tracing_in_one_weekend\\stb_image.cpp",
+              "RelativeDocumentMoniker": "stb_image.cpp",
+              "ToolTip": "D:\\visual_studio_Files\\Ray_tracing_series\\ray_tracing_in_one_weekend\\stb_image.cpp",
+              "RelativeToolTip": "stb_image.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-21T08:14:41.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "sphere.hpp",
+              "DocumentMoniker": "D:\\visual_studio_Files\\Ray_tracing_series\\ray_tracing_in_one_weekend\\sphere.hpp",
+              "RelativeDocumentMoniker": "sphere.hpp",
+              "ToolTip": "D:\\visual_studio_Files\\Ray_tracing_series\\ray_tracing_in_one_weekend\\sphere.hpp",
+              "RelativeToolTip": "sphere.hpp",
+              "ViewState": "AQIAACcAAAAAAAAAAAAowFQAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-25T12:22:04.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "onb.hpp",
+              "DocumentMoniker": "D:\\visual_studio_Files\\Ray_tracing_series\\ray_tracing_in_one_weekend\\onb.hpp",
+              "RelativeDocumentMoniker": "onb.hpp",
+              "ToolTip": "D:\\visual_studio_Files\\Ray_tracing_series\\ray_tracing_in_one_weekend\\onb.hpp",
+              "RelativeToolTip": "onb.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-27T06:16:43.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "quad.hpp",
+              "DocumentMoniker": "D:\\visual_studio_Files\\Ray_tracing_series\\ray_tracing_in_one_weekend\\quad.hpp",
+              "RelativeDocumentMoniker": "quad.hpp",
+              "ToolTip": "D:\\visual_studio_Files\\Ray_tracing_series\\ray_tracing_in_one_weekend\\quad.hpp",
+              "RelativeToolTip": "quad.hpp",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAFkAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-27T09:32:23.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "hittable.hpp",
+              "DocumentMoniker": "D:\\visual_studio_Files\\Ray_tracing_series\\ray_tracing_in_one_weekend\\hittable.hpp",
+              "RelativeDocumentMoniker": "hittable.hpp",
+              "ToolTip": "D:\\visual_studio_Files\\Ray_tracing_series\\ray_tracing_in_one_weekend\\hittable.hpp",
+              "RelativeToolTip": "hittable.hpp",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAiwB0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-14T12:33:20.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ray.hpp",
+              "DocumentMoniker": "D:\\visual_studio_Files\\Ray_tracing_series\\ray_tracing_in_one_weekend\\ray.hpp",
+              "RelativeDocumentMoniker": "ray.hpp",
+              "ToolTip": "D:\\visual_studio_Files\\Ray_tracing_series\\ray_tracing_in_one_weekend\\ray.hpp",
+              "RelativeToolTip": "ray.hpp",
+              "ViewState": "AQIAAAwAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-28T06:55:08.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "vec3.hpp",
+              "DocumentMoniker": "D:\\visual_studio_Files\\Ray_tracing_series\\ray_tracing_in_one_weekend\\vec3.hpp",
+              "RelativeDocumentMoniker": "vec3.hpp",
+              "ToolTip": "D:\\visual_studio_Files\\Ray_tracing_series\\ray_tracing_in_one_weekend\\vec3.hpp",
+              "RelativeToolTip": "vec3.hpp",
+              "ViewState": "AQIAAFIAAAAAAAAAAAApwGAAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-25T06:45:34.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "bvh.hpp",
+              "DocumentMoniker": "D:\\visual_studio_Files\\Ray_tracing_series\\ray_tracing_in_one_weekend\\bvh.hpp",
+              "RelativeDocumentMoniker": "bvh.hpp",
+              "ToolTip": "D:\\visual_studio_Files\\Ray_tracing_series\\ray_tracing_in_one_weekend\\bvh.hpp",
+              "RelativeToolTip": "bvh.hpp",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-20T06:52:36.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "interval.hpp",
+              "DocumentMoniker": "D:\\visual_studio_Files\\Ray_tracing_series\\ray_tracing_in_one_weekend\\interval.hpp",
+              "RelativeDocumentMoniker": "interval.hpp",
+              "ToolTip": "D:\\visual_studio_Files\\Ray_tracing_series\\ray_tracing_in_one_weekend\\interval.hpp",
+              "RelativeToolTip": "interval.hpp",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAB0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-15T12:23:46.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "perlin.hpp",
+              "DocumentMoniker": "D:\\visual_studio_Files\\Ray_tracing_series\\ray_tracing_in_one_weekend\\perlin.hpp",
+              "RelativeDocumentMoniker": "perlin.hpp",
+              "ToolTip": "D:\\visual_studio_Files\\Ray_tracing_series\\ray_tracing_in_one_weekend\\perlin.hpp",
+              "RelativeToolTip": "perlin.hpp",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAFkAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-21T09:32:23.141Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
